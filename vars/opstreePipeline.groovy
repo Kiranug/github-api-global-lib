@@ -3,6 +3,7 @@ def call() {
 
         stage('Checkout') {
           echo "Hello World"
+          ls -ltr
         }
 
          def p = pipelineConfig()
