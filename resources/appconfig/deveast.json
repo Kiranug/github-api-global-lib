@@ -1,0 +1,14 @@
+"dev":{
+        "#RESOURCE_GROUP#":"dev-happy-chimp",
+        "#NAMESPACE#":"dev",
+        "#NAMESPACE_Integration#":"dev",
+        "#SPRING_PROFILE#" :"dev",
+        "#REPLICA_COUNT#":"1",
+        "#APP_REGION#":"us-east",
+        "build_credential_id":"dev-sp-cred",
+        "deployment_credential_id":"deployment-sp-cred",
+        "cluster_name":"dev-cred",
+        "cluster_region":"us-east",
+        "jump_iap_server":"bastion-host",
+        "jump_server_region":"us-central"
+    },
