@@ -2,8 +2,7 @@ def call() {
     node('slave1') {
 
         stage('Checkout') {
-          echo "Hello World"
-          sh "ls -ltr"
+         checkout scm
         }
 
          def p = pipelineConfig()
