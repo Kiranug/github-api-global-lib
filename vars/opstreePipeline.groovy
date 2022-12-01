@@ -1,5 +1,5 @@
 def call() {
-    node('Slave1') {
+    agent any {
 
         stage('Checkout') {
             checkout scm
