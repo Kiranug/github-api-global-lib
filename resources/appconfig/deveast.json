@@ -12,6 +12,6 @@
         "cluster_region":"us-east",
         "jump_iap_server":"bastion-host",
         "jump_server_region":"us-central",
-        "PROJECT_ID":"kiran-group"
+        "#PROJECT_ID#":"kiran-group"
     }
 }
