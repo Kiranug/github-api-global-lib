@@ -1,6 +1,3 @@
-
-@Library ('My-Shared-Library@main') _
-
 import groovy.json.*
 import groovy.json.JsonSlurperClassic
 import net.sf.json.groovy.JsonSlurper
