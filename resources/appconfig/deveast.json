@@ -1,3 +1,4 @@
+{
 "dev":{
         "#RESOURCE_GROUP#":"dev-happy-chimp",
         "#NAMESPACE#":"dev",
@@ -12,3 +13,4 @@
         "jump_iap_server":"bastion-host",
         "jump_server_region":"us-central"
     }
+}
