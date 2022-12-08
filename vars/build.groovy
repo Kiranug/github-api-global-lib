@@ -1,3 +1,13 @@
+/**
+@Library(value="branch", changelog=false) _
+
+function{
+
+    echo "Calling var/function.groovy"
+
+}
+**/
+
 import groovy.json.*
 import groovy.json.JsonSlurperClassic
 import net.sf.json.groovy.JsonSlurper
