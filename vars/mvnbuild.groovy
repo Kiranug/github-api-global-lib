@@ -1,4 +1,4 @@
 // check out repo
 def call() {
-mvn clean build
+mvn clean package
 }
