@@ -2,7 +2,8 @@
 // check out repo
 def call(Map config = [:]) {
   sh 'docker images'
-  sh 'docker build -t javatest kiranug/javaapp .'
-  sh 'docker push kiranug/javaapp:javatest'
+  sh 'docker build -t javatest .'
+  sh 'docker image tag kiranug/javatest:latest .' 
+  sh 'docker images push kiranug/javatest:latest'
   sh 'docker images'
 }
