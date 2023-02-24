@@ -14,9 +14,9 @@
         "jump_server_region":"us-central",
         "#PROJECT_ID#":"kiran-group",
         "a":"3",
-        "b":"6"
-        "AKS_RESOURCE_GROUP":"terraform-aks-dev"
-        "AKS_CLUSTER_NAME":"terraform-aks-dev-cluster"
+        "b":"6",
+        "AKS_RESOURCE_GROUP":"terraform-aks-dev",
+        "AKS_CLUSTER_NAME":"terraform-aks-dev-cluster",
         "KUBECONFIG":"/home/azureuser/.kube/config"
     }
 }
