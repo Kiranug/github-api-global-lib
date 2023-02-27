@@ -21,5 +21,6 @@
         "REGISTRY":"appimages1991.azurecr.io",
         "IMAGE":"java-app",
         "TAG":"data"
+        "ACR_CREDENTIAL_ID":"terraform_connection"
     }
 }
