@@ -20,7 +20,7 @@
         "KUBECONFIG":"/home/azureuser/.kube/config",
         "REGISTRY":"appimages1991.azurecr.io",
         "IMAGE":"java-app",
-        "TAG":"data"
+        "TAG":"data",
         "ACR_CREDENTIAL_ID":"terraform_connection"
     }
 }
