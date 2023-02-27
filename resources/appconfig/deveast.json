@@ -18,7 +18,7 @@
         "AKS_RESOURCE_GROUP":"terraform-aks-dev",
         "AKS_CLUSTER_NAME":"terraform-aks-dev-cluster",
         "KUBECONFIG":"/home/azureuser/.kube/config",
-        "REGISTRY":"terraformaksdevclusterregistry123.azurecr.io",
+        "REGISTRY":"terraformaksdevclusterregistry1234.azurecr.io",
         "IMAGE":"java-app",
         "TAG":"data",
         "ACR_CREDENTIAL_ID":"terraform_connection"
