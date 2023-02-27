@@ -18,5 +18,8 @@
         "AKS_RESOURCE_GROUP":"terraform-aks-dev",
         "AKS_CLUSTER_NAME":"terraform-aks-dev-cluster",
         "KUBECONFIG":"/home/azureuser/.kube/config"
+        "REGISTRY" = "appimages1991.azurecr.io"
+        "IMAGE" = "java-app"
+        "TAG" = "data"
     }
 }
